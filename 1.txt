@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is from test1 chane
-=======
-this is from test
->>>>>>> 40e5cef9c83ce4570b2ad98b3aec709e3084ccdf
